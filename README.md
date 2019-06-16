@@ -1,0 +1,2 @@
+# Irrlicht
+library Irrlicht
